@@ -4,3 +4,6 @@
 !.gitignore
 !LICENSE
 !README.md
+!src/
+!*.jsx
+!*.html
