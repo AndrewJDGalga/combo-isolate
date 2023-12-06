@@ -5,5 +5,9 @@
 !LICENSE
 !README.md
 !src/
+!styling/
+!src/components/
+!src/test/
 !*.jsx
 !*.html
+!*.test.js
