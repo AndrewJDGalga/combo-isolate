@@ -1,0 +1,14 @@
+:root {
+    --white-player: white;
+    --black-player: black;
+    --board-highlight: #CCCCCC;
+    --goal-color: blue;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
