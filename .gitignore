@@ -6,8 +6,9 @@
 !README.md
 !src/
 !styling/
-!src/components/
-!src/test/
+!components/
+!test/
 !*.jsx
 !*.html
 !*.test.js
+!*.css

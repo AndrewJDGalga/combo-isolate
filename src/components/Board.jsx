@@ -1,8 +1,16 @@
 
+function boardArray(size) {
+    const arr = [];
+
+    
+
+    return arr;
+}
+
 function Board(){
-    return(<div>
-        
-    </div>)
+    const size = 5;
+    
+    return(<div></div>)
 }
 
 export default Board
